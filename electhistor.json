@@ -1,0 +1,2060 @@
+{
+   "etag": "\"MjAyMS0xMS0yN1QwNzoxNzowNS41MzNa\"",
+   "items": [
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk3NDI1NTMzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5364483533250198081",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5364483533250198081/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5364483533250198081",
+         "title": "Electricity",
+         "updated": "2021-11-26T23:17:05-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electricity.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk3MzEwMTU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7755162490596931676",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7755162490596931676/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7755162490596931676",
+         "title": "Electric charge",
+         "updated": "2021-11-26T23:15:10-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-charge.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk3MjE5NjAxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7576322833128376243",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7576322833128376243/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7576322833128376243",
+         "title": "Electric field",
+         "updated": "2021-11-26T23:13:39-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-field.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk3MTI1MjI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6816251361864661921",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6816251361864661921/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6816251361864661921",
+         "title": "Electric potential",
+         "updated": "2021-11-26T23:12:05-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-potential.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk3MDQzNjQ3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8419856267124200615",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8419856267124200615/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8419856267124200615",
+         "title": "Electric current",
+         "updated": "2021-11-26T23:10:43-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-current.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2OTQ0NzkxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7494041652513692188",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:09:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7494041652513692188/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7494041652513692188",
+         "title": "Electric power",
+         "updated": "2021-11-26T23:09:04-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-power.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2ODcxNDkzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2402797014385718209",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:07:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2402797014385718209/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2402797014385718209",
+         "title": "Electromagnet",
+         "updated": "2021-11-26T23:07:51-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electromagnet.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2NzY2MzQ2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6265345611063583457",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6265345611063583457/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6265345611063583457",
+         "title": "Electronics",
+         "updated": "2021-11-26T23:06:06-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electronics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2NjcwODE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "87301707430604234",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:04:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/87301707430604234/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/87301707430604234",
+         "title": "Electrostatics",
+         "updated": "2021-11-26T23:04:30-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrostatics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2NTcxODc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2992358938972272422",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2992358938972272422/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2992358938972272422",
+         "title": "Magnetostatics",
+         "updated": "2021-11-26T23:02:51-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/magnetostatics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2NTAwNjk0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8150109575633168115",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8150109575633168115/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8150109575633168115",
+         "title": "Classical electromagnetism",
+         "updated": "2021-11-26T23:01:40-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/classical-electromagnetism.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2NDI3NjU2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8012670323172436472",
+         "kind": "blogger#post",
+         "published": "2021-11-26T23:00:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8012670323172436472/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8012670323172436472",
+         "title": "Electrical network",
+         "updated": "2021-11-26T23:00:27-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrical-network.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2MzU0NjM1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2104271130932864180",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2104271130932864180/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2104271130932864180",
+         "title": "Covariant formulation of classical electromagnetism",
+         "updated": "2021-11-26T22:59:14-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/covariant-formulation-of-classical.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2MjMyODUwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6442258532964284644",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6442258532964284644/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6442258532964284644",
+         "title": "André-Marie Ampère",
+         "updated": "2021-11-26T22:57:12-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/andre-marie-ampere.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2MTQxMTU5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3475496600859285244",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3475496600859285244/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3475496600859285244",
+         "title": "Charles-Augustin de Coulomb",
+         "updated": "2021-11-26T22:55:41-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/charles-augustin-de-coulomb.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk2MDQwMjEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "205563149223945644",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/205563149223945644/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/205563149223945644",
+         "title": "Michael Faraday",
+         "updated": "2021-11-26T22:54:00-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/michael-faraday.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1ODgyODIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4031517724961487634",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4031517724961487634/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4031517724961487634",
+         "title": "Carl Friedrich Gauss",
+         "updated": "2021-11-26T22:51:22-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/carl-friedrich-gauss.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1NzcyNjY5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3194643685819822846",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3194643685819822846/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3194643685819822846",
+         "title": "Oliver Heaviside",
+         "updated": "2021-11-26T22:49:32-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/oliver-heaviside.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1Njc4Nzg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4247834314280635282",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4247834314280635282/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4247834314280635282",
+         "title": "Joseph Henry",
+         "updated": "2021-11-26T22:47:58-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/joseph-henry.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1NTgwODM0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8707869655566089410",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8707869655566089410/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8707869655566089410",
+         "title": "Heinrich Hertz",
+         "updated": "2021-11-26T22:46:20-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/heinrich-hertz.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1NDc0MTgzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "553629509056390723",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/553629509056390723/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/553629509056390723",
+         "title": "Hendrik Lorentz",
+         "updated": "2021-11-26T22:44:34-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/hendrik-lorentz.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1MzcwMzU3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "667935661495415802",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/667935661495415802/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/667935661495415802",
+         "title": "James Clerk Maxwell",
+         "updated": "2021-11-26T22:42:50-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/james-clerk-maxwell.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk1MjU1ODU3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5229474996671820125",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5229474996671820125/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5229474996671820125",
+         "title": "Nikola Tesla",
+         "updated": "2021-11-26T22:40:55-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/nikola-tesla.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk0OTMyMDQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7507660072637534442",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7507660072637534442/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7507660072637534442",
+         "title": "Alessandro Volta",
+         "updated": "2021-11-26T22:35:32-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/alessandro-volta.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk0ODU1MDA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6918779371172260311",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6918779371172260311/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6918779371172260311",
+         "title": "Wilhelm Eduard Weber",
+         "updated": "2021-11-26T22:34:15-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/wilhelm-eduard-weber.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk0Nzc2NjM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2619167022857275793",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2619167022857275793/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2619167022857275793",
+         "title": "Hans Christian Ørsted",
+         "updated": "2021-11-26T22:32:56-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/hans-christian-rsted.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk0NjgyMzgxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3323271698920156632",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3323271698920156632/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3323271698920156632",
+         "title": "History of electromagnetic theory",
+         "updated": "2021-11-26T22:31:22-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/history-of-electromagnetic-theory.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTk0MTYzOTc1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "892213164498536294",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/892213164498536294/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/892213164498536294",
+         "title": "History of electrical engineering",
+         "updated": "2021-11-26T22:22:43-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/history-of-electrical-engineering.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTkzNjQ3Mjk5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1355815655360805541",
+         "kind": "blogger#post",
+         "published": "2021-11-26T22:14:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1355815655360805541/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1355815655360805541",
+         "title": "Etymology of electricity",
+         "updated": "2021-11-26T22:14:07-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/etymology-of-electricity.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUzNDU0OTUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6145307934004780119",
+         "kind": "blogger#post",
+         "published": "2021-11-26T11:04:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6145307934004780119/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6145307934004780119",
+         "title": "Benjamin Franklin",
+         "updated": "2021-11-26T11:04:14-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/benjamin-franklin.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUzMDQ4ODY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3217694896994941170",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3217694896994941170/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3217694896994941170",
+         "title": "Electrostatic generator",
+         "updated": "2021-11-26T10:57:28-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrostatic-generator.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyOTcyMDI3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "834721039751188391",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/834721039751188391/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/834721039751188391",
+         "title": "Electromagnetism",
+         "updated": "2021-11-26T10:56:12-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electromagnetism.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyODg4MzQ3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5324197061253652315",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5324197061253652315/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5324197061253652315",
+         "title": "Electric machine",
+         "updated": "2021-11-26T10:54:48-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-machine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyODAzNTE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "779120819642459930",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/779120819642459930/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/779120819642459930",
+         "title": "Werner von Siemens",
+         "updated": "2021-11-26T10:53:23-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/werner-von-siemens.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyNzM0NDc5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8607476507142178355",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8607476507142178355/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8607476507142178355",
+         "title": "Joseph Swan",
+         "updated": "2021-11-26T10:52:14-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/joseph-swan.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyNjUwMjg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2522791306606211827",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2522791306606211827/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2522791306606211827",
+         "title": "George Westinghouse",
+         "updated": "2021-11-26T10:50:50-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/george-westinghouse.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyNTYwNzQxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2669967061561443963",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2669967061561443963/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2669967061561443963",
+         "title": "Coulomb's law",
+         "updated": "2021-11-26T10:49:20-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/coulombs-law.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUyMjQyNzkxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1704009137844314632",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1704009137844314632/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1704009137844314632",
+         "title": "Inverse-square law",
+         "updated": "2021-11-26T10:44:02-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/inverse-square-law.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxOTkzMDc4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9033125494595166173",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/9033125494595166173/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/9033125494595166173",
+         "title": "William Nicholson (chemist)",
+         "updated": "2021-11-26T10:39:53-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/william-nicholson-chemist.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxOTA5NzU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7308391976312968859",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7308391976312968859/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7308391976312968859",
+         "title": "Electromagnetic interference",
+         "updated": "2021-11-26T10:38:29-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electromagnetic-interference.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxNzk5MDg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4870010816182061386",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4870010816182061386/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4870010816182061386",
+         "title": "Sine wave",
+         "updated": "2021-11-26T10:36:39-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/sine-wave.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxNjg4MTUzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8865371768683480929",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8865371768683480929/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8865371768683480929",
+         "title": "Electrical breakdown",
+         "updated": "2021-11-26T10:34:48-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrical-breakdown.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxNTYzMTM2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1505729901986342658",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1505729901986342658/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1505729901986342658",
+         "title": "High voltage",
+         "updated": "2021-11-26T10:32:43-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/high-voltage.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxNDYzNjM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6645747673900981883",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6645747673900981883/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6645747673900981883",
+         "title": "Faraday cage",
+         "updated": "2021-11-26T10:31:03-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/faraday-cage.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxMzYwNTU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5925063390069419193",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5925063390069419193/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5925063390069419193",
+         "title": "Ampere",
+         "updated": "2021-11-26T10:29:20-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/ampere.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxMjc5NzQyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "537469505744730623",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/537469505744730623/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/537469505744730623",
+         "title": "Faraday's law of induction",
+         "updated": "2021-11-26T10:27:59-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/faradays-law-of-induction.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxMTMwODI3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5715690038678872805",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5715690038678872805/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5715690038678872805",
+         "title": "Electromagnetic induction",
+         "updated": "2021-11-26T10:25:30-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electromagnetic-induction.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUxMDM5MzQ1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4361884258943475581",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4361884258943475581/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4361884258943475581",
+         "title": "Electric generator",
+         "updated": "2021-11-26T10:23:59-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-generator.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTUwNTQ5Njk2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4713218467343639900",
+         "kind": "blogger#post",
+         "published": "2021-11-26T10:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4713218467343639900/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4713218467343639900",
+         "title": "Magnetic flux",
+         "updated": "2021-11-26T10:15:49-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/magnetic-flux.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQ0NTQ2MjU2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5471580454370398576",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5471580454370398576/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5471580454370398576",
+         "title": "Homopolar generator",
+         "updated": "2021-11-26T08:35:46-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/homopolar-generator.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQ0NDU1MjMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5848696768130773250",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5848696768130773250/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5848696768130773250",
+         "title": "Electrochemical cell",
+         "updated": "2021-11-26T08:34:15-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrochemical-cell.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQ0MzgyNDcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1378759690669753229",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1378759690669753229/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/1378759690669753229",
+         "title": "Electrochemistry",
+         "updated": "2021-11-26T08:33:02-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrochemistry.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQzOTAxOTU1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9040624944950984775",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/9040624944950984775/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/9040624944950984775",
+         "title": "Capacitor",
+         "updated": "2021-11-26T08:25:01-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/capacitor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQzNTI5OTIyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "397981578691179543",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/397981578691179543/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/397981578691179543",
+         "title": "Transformer",
+         "updated": "2021-11-26T08:18:49-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/transformer.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQzMzYwNjI0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5701360373040930980",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5701360373040930980/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5701360373040930980",
+         "title": "Resistor",
+         "updated": "2021-11-26T08:16:00-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/resistor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQzMjMxNzgwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6436934416291634049",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6436934416291634049/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6436934416291634049",
+         "title": "Semiconductor",
+         "updated": "2021-11-26T08:13:51-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/semiconductor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQzMTI0NTYyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3665769762898270405",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3665769762898270405/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3665769762898270405",
+         "title": "Georg Ohm",
+         "updated": "2021-11-26T08:12:04-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/georg-ohm.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQyODg2MjM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2776095313716345611",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2776095313716345611/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2776095313716345611",
+         "title": "Network analysis (electrical circuits)",
+         "updated": "2021-11-26T08:08:06-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/network-analysis-electrical-circuits.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQyNzE3MTk5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7822663856845430983",
+         "kind": "blogger#post",
+         "published": "2021-11-26T08:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7822663856845430983/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7822663856845430983",
+         "title": "Electricity generation",
+         "updated": "2021-11-26T08:05:17-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electricity-generation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQxOTkzNzI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4212804203614472121",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4212804203614472121/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/4212804203614472121",
+         "title": "Electromagnetic radiation",
+         "updated": "2021-11-26T07:53:13-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electromagnetic-radiation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQxNzI5NDA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9219574694673649513",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/9219574694673649513/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/9219574694673649513",
+         "title": "Maxwell's equations",
+         "updated": "2021-11-26T07:48:49-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/maxwells-equations.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQxMzg0NDExCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "646071624181000426",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/646071624181000426/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/646071624181000426",
+         "title": "Triboelectric effect",
+         "updated": "2021-11-26T07:43:04-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/triboelectric-effect.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQxMzA2NzA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2654876619260005120",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2654876619260005120/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2654876619260005120",
+         "title": "Electric power transmission",
+         "updated": "2021-11-26T07:41:46-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-power-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQxMDAzNTg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6997238075793136613",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6997238075793136613/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6997238075793136613",
+         "title": "Mains electricity",
+         "updated": "2021-11-26T07:36:43-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/mains-electricity.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQwOTEyMjQzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2555007404782325888",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2555007404782325888/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2555007404782325888",
+         "title": "Charles Algernon Parsons",
+         "updated": "2021-11-26T07:35:12-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/charles-algernon-parsons.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQwODAyMTI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5249098600672290180",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5249098600672290180/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5249098600672290180",
+         "title": "Power station",
+         "updated": "2021-11-26T07:33:22-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/power-station.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQwNzA1NzIzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8624436454559580996",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8624436454559580996/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8624436454559580996",
+         "title": "Joule heating",
+         "updated": "2021-11-26T07:31:45-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/joule-heating.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQwNjE4Mzg4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7768930268968319724",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7768930268968319724/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/7768930268968319724",
+         "title": "Incandescent light bulb",
+         "updated": "2021-11-26T07:30:18-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/incandescent-light-bulb.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQwMjgzMzE2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8815441967508721904",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8815441967508721904/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/8815441967508721904",
+         "title": "Electrical telegraph",
+         "updated": "2021-11-26T07:24:43-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrical-telegraph.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTQwMTQwNDgwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2552126406311496882",
+         "kind": "blogger#post",
+         "published": "2021-11-26T07:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2552126406311496882/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2552126406311496882",
+         "title": "Electric vehicle",
+         "updated": "2021-11-26T07:22:20-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-vehicle.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI2Mzk3NTI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3931173988600995414",
+         "kind": "blogger#post",
+         "published": "2021-11-26T03:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3931173988600995414/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3931173988600995414",
+         "title": "Pantograph (rail)",
+         "updated": "2021-11-26T03:33:17-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/pantograph-rail.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI2Mjk3NzU5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3933948549682266741",
+         "kind": "blogger#post",
+         "published": "2021-11-26T03:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3933948549682266741/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3933948549682266741",
+         "title": "Electric shock",
+         "updated": "2021-11-26T03:31:37-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electric-shock.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI2MTgxNTEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6745622252544641423",
+         "kind": "blogger#post",
+         "published": "2021-11-26T03:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6745622252544641423/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/6745622252544641423",
+         "title": "Electrovibration",
+         "updated": "2021-11-26T03:29:41-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrovibration.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI0NjczNjg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5813961682093506263",
+         "kind": "blogger#post",
+         "published": "2021-11-26T03:04:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5813961682093506263/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5813961682093506263",
+         "title": "Electrical phenomena",
+         "updated": "2021-11-26T03:04:33-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electrical-phenomena.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI0NjEzMjA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3917826645632615231",
+         "kind": "blogger#post",
+         "published": "2021-11-26T03:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3917826645632615231/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/3917826645632615231",
+         "title": "Dynamo theory",
+         "updated": "2021-11-26T03:03:33-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/dynamo-theory.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI0NTIzNTgxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5636775880835377212",
+         "kind": "blogger#post",
+         "published": "2021-11-26T03:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5636775880835377212/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/5636775880835377212",
+         "title": "Earth's magnetic field",
+         "updated": "2021-11-26T03:02:03-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/earths-magnetic-field.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI0MzY4OTkyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2335009027543978144",
+         "kind": "blogger#post",
+         "published": "2021-11-26T02:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2335009027543978144/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2335009027543978144",
+         "title": "Electroreception",
+         "updated": "2021-11-26T02:59:28-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/electroreception.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3OTI0Mjc1NTU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2250799082118716258",
+         "kind": "blogger#post",
+         "published": "2021-11-26T02:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2250799082118716258/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/2250799082118716258",
+         "title": "William Ewart Gladstone",
+         "updated": "2021-11-26T02:57:55-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/william-ewart-gladstone.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "8326346223376531232"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3ODQ0MzM2MDg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "21858838912726279",
+         "kind": "blogger#post",
+         "published": "2021-11-25T04:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/21858838912726279/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/8326346223376531232/posts/21858838912726279",
+         "title": "Alternating current",
+         "updated": "2021-11-25T04:45:36-08:00",
+         "url": "http://electricalhistorywiki.blogspot.com/2021/11/alternating-current.html"
+      }
+   ],
+   "kind": "blogger#postList"
+}
